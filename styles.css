@@ -1,0 +1,30 @@
+.contaniner{
+    padding: 20px;
+    height: 100vh;
+}
+
+header{
+    font-family: 'Londrina Shadow', helvetica, san-serif;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+h1 {
+    margin: 0;
+    font-size: 8rem;
+    text-transform: uppercase;
+    line-height: 0.8em; 
+  }
+
+nav ul{
+    display: flex;
+    
+}
+
+nav ul li {
+    padding-right: 1em;
+    list-style: none;
+}
+
+main {
+    height: 100%;
+}
