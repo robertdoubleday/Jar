@@ -1,6 +1,8 @@
 .contaniner{
     padding: 20px;
     height: 100vh;
+    width: 100vw;
+    overflow: hidden;
 }
 
 header{
