@@ -1,15 +1,7 @@
-
-
-body{
-    overflow: hidden;
-    margin: 0;
-	padding: 0;
-}
-
 .contaniner{
-    padding: 0px;
+    padding: 20px;
     height: 100vh;
-    width: 100vw;
+    
     overflow: hidden;
 }
 
@@ -36,5 +28,5 @@ nav ul li {
 }
 
 main {
-  
+    height: 100%;
 }
