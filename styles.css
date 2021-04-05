@@ -13,12 +13,6 @@ body{
 	padding: 0;
 }
 
-.contaniner{
-    padding: 20px;
-    height: 100vh;
-    
-    overflow: hidden;
-}
 
 header{
     font-family: 'Londrina Shadow', helvetica, san-serif;
